@@ -1,0 +1,15 @@
+Index: core/src/com/pixelapp/SpecificOptions/TextOptions.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- core/src/com/pixelapp/SpecificOptions/TextOptions.java	(date 1528783083771)
++++ core/src/com/pixelapp/SpecificOptions/TextOptions.java	(date 1528783083771)
+@@ -137,6 +137,7 @@
+     protected void dispose() {
+         if(textPixmap != null) {
+             textPixmap.dispose();
++            textPixmap = null;
+         }
+     }
+ 
