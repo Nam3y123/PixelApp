@@ -297,7 +297,7 @@ public class AnimProcessor {
     }
 
     public void addAnim(String name) {
-        addToUndo(new AddAnimUndoAction(frames[framePos], this));
+        addToUndo(new AddAnimUndoAction(frames[framePos], this, false));
         frames[framePos].setAnim(name);
     }
 
@@ -306,7 +306,7 @@ public class AnimProcessor {
     }
 
     public void renameAnim(String name, int animPos) {
-        addToUndo(new AddAnimUndoAction(frames[framePos], this));
+        addToUndo(new AddAnimUndoAction(frames[framePos], this, true));
         int animStart = animPos;
         while(animStart >= 0 && frames[animStart].getAnim() != null && frames[animStart].getAnim().equals(frames[animPos].getAnim())) {
             animStart--;
@@ -322,7 +322,7 @@ public class AnimProcessor {
     }
 
     public void addAnimCascade(String name, int animPos) {
-        addToUndo(new AddAnimUndoAction(frames[framePos], this));
+        addToUndo(new AddAnimUndoAction(frames[framePos], this, true));
         int animStart = animPos;
         while(animStart >= 0 && frames[animStart].getAnim() == null) {
             animStart--;
@@ -414,6 +414,20 @@ public class AnimProcessor {
     public void endAnimation() {
         animRunning = false;
         Timer.instance().clear();
+    }
+
+    public int getPosOfFrame(Canvas frame)
+    {
+        int ret = -1;
+        for (int i = 0; i < frames.length && ret == -1; i++)
+        {
+            Canvas testFrame = frames[i];
+            if (testFrame.equals(frame))
+            {
+                ret = i;
+            }
+        }
+        return ret;
     }
 
     public Group getFrameWrapper() {
