@@ -1,19 +1,19 @@
 #Internal package file, do not edit.
-#Mon Jun 11 17:06:21 PDT 2018
-1.base=C\:\\Users\\benca\\Desktop\\PixelApp\\android\\build\\intermediates\\assets\\debug
-2.path=GUI.png
+#Wed Jun 13 17:06:01 PDT 2018
+1.base=C\:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\build\\intermediates\\assets\\debug
+2.path=Paper.png
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=C\:\\Users\\benca\\Desktop\\PixelApp\\android\\build\\intermediates\\assets\\debug
+2.base=C\:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\build\\intermediates\\assets\\debug
 3.set=ASSET
 2.set=ASSET
 1.baseType=DIRECTORY
-3.path=Paper.png
+3.path=GUI.png
 count=4
 1.set=ASSET
-0.path=Menu.png
-3.base=C\:\\Users\\benca\\Desktop\\PixelApp\\android\\build\\intermediates\\assets\\debug
+0.path=badlogic.jpg
+3.base=C\:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\build\\intermediates\\assets\\debug
 0.set=ASSET
-0.base=C\:\\Users\\benca\\Desktop\\PixelApp\\android\\build\\intermediates\\assets\\debug
+0.base=C\:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\build\\intermediates\\assets\\debug
 2.baseType=DIRECTORY
-1.path=badlogic.jpg
+1.path=Menu.png

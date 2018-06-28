@@ -4,7 +4,28 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7265d3e7-adf3-4734-814b-01684851b3fe" name="Default" comment="">
+    <list default="true" id="7748decd-c878-4172-b4c1-1e562dd47909" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customtabs_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_15_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_base_15_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_15_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_15_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_15_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_15_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/android/src/com/pixelpalette/AndroidLauncher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/PlatformOperations.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/CanvasFlipUndoAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/MoveFrameUndoAction.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
@@ -21,20 +42,28 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/PixelApp.iml" afterPath="$PROJECT_DIR$/PixelApp.iml" />
+      <change beforePath="$PROJECT_DIR$/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/AndroidManifest.xml" />
       <change beforePath="$PROJECT_DIR$/android/android.iml" afterPath="$PROJECT_DIR$/android/android.iml" />
       <change beforePath="$PROJECT_DIR$/android/assets/GUI.png" afterPath="$PROJECT_DIR$/android/assets/GUI.png" />
-      <change beforePath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/pixelapp/BuildConfig.java" afterPath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/pixelapp/BuildConfig.java" />
-      <change beforePath="$PROJECT_DIR$/android/build/generated/source/r/debug/com/pixelapp/R.java" afterPath="$PROJECT_DIR$/android/build/generated/source/r/debug/com/pixelapp/R.java" />
+      <change beforePath="$PROJECT_DIR$/android/assets/Menu.png" afterPath="$PROJECT_DIR$/android/assets/Menu.png" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" afterPath="$PROJECT_DIR$/android/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/buildConfig/androidTest/debug/com/pixelapp/test/BuildConfig.java" afterPath="$PROJECT_DIR$/android/build/generated/source/buildConfig/androidTest/debug/com/pixelpalette/test/BuildConfig.java" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/pixelapp/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/r/androidTest/debug/com/pixelapp/test/R.java" afterPath="$PROJECT_DIR$/android/build/generated/source/r/androidTest/debug/com/pixelpalette/test/R.java" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/r/debug/com/pixelapp/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/GUI.png" afterPath="$PROJECT_DIR$/android/build/intermediates/assets/debug/GUI.png" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/Menu.png" afterPath="$PROJECT_DIR$/android/build/intermediates/assets/debug/Menu.png" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/debug.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/values.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/AndroidLauncher$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/AndroidLauncher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/pixelapp/R.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/82MBVjscncbYJoyvoLhmnok_XL8=" afterPath="" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IQzaU_lqs0hpPKhsONx85xWa3nQ=" afterPath="" />
@@ -50,7 +79,7 @@
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
@@ -62,7 +91,10 @@
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/GpxdHuDpyCbweLaxVD5zTjoKWw0=" afterPath="" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/android/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/output.json" afterPath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/output.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/instant-run/debug/output.json" afterPath="$PROJECT_DIR$/android/build/intermediates/manifests/instant-run/debug/output.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/debug/output.json" afterPath="$PROJECT_DIR$/android/build/intermediates/res/debug/output.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/android/build/intermediates/res/debug/resources-debug.ap_" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_ic_launcher.png.flat" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" />
@@ -76,18 +108,27 @@
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values_values.arsc.flat" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/0.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/0.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/AndroidLauncher$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/AndroidLauncher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/1/com/pixelapp/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/4.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/4.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/5.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/5.jar" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/desugar/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/1.jar" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/13.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/14.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/17.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/18.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/10.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/11.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/12.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/13.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/13.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/14.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/14.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/15.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/16.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/17.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/17.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/18.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/18.jar" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/2.jar" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/21/com/android/tools/ir/dummy/slice_0.dex" afterPath="" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/22/com/android/tools/ir/dummy/slice_1.dex" afterPath="" />
@@ -243,7 +284,7 @@
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/6.jar" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/7.jar" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/8.jar" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/9.jar" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="" />
@@ -263,22 +304,192 @@
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
       <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/stackFramesFixer/debug/2.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/stackFramesFixer/debug/2.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/stackFramesFixer/debug/3.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/stackFramesFixer/debug/3.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/stackFramesFixer/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/stackFramesFixer/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/android/build/outputs/apk/debug/android-debug.apk" afterPath="$PROJECT_DIR$/android/build/outputs/apk/debug/android-debug.apk" />
       <change beforePath="$PROJECT_DIR$/android/build/outputs/apk/debug/output.json" afterPath="$PROJECT_DIR$/android/build/outputs/apk/debug/output.json" />
       <change beforePath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$Anim.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$Anim.class" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$1$1.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$1$1.class" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$1.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$1.class" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$2.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$2.class" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu.class" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor.class" />
-      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.class" />
+      <change beforePath="$PROJECT_DIR$/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/android/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/android/src/com/pixelapp/AndroidLauncher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$Anim.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor$AnimMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/AnimProcessor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$10.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas$9.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Canvas.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Clipboard$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Clipboard.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker$5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker$6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ColorPicker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/DrawStage$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/DrawStage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/FileMenu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/FileMenu$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/FileMenu$3$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/FileMenu$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/FileMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/HSVColor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/LayerOptions$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/LayerOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/LayerSelector$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/LayerSelector$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/LayerSelector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$10.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$11.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$12.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$13.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$14.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$15.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$4$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$5$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$6$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$7$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$7$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$9.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$MenuButton$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$MenuButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu$Tab.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Menu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MenuList$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MenuList$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MenuList$Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MenuList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MoveMenu$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MoveMenu$1$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MoveMenu$1$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MoveMenu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/MoveMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/NewAnimWindow$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/NewAnimWindow$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/NewAnimWindow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/PixelApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/PlatformOperations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ResizeCanvasWindow$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ResizeCanvasWindow$1$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ResizeCanvasWindow$1$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ResizeCanvasWindow$1$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ResizeCanvasWindow$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ResizeCanvasWindow.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SelectOptions$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SelectOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SideMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/ColorSelectOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/EraserOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/FillOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/PenSelectOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/PencilOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/SquareSelectOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/TextOptions$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/TextOptions$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/TextOptions$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/TextOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificOptions/WandSelectOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/AddFrameUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/AddLayerUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/MergeLayerUndoAction$MergeLayerRedoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/MergeLayerUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/MoveLayerUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/PixmapUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/RemoveFrameUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/RemoveLayerUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/ResizeUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/SpecificUndoActions/SelectUndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/TextPrinter$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/TextPrinter$PrintType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/TextPrinter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/Tool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ToolOptions$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ToolOptions$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ToolOptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ToolSelector$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/ToolSelector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/UndoAction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/UndoRedoButtons$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/UndoRedoButtons$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/UndoRedoButtons.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/WidthHeightWindow$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/WidthHeightWindow$1$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/WidthHeightWindow$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/pixelapp/WidthHeightWindow.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" />
       <change beforePath="$PROJECT_DIR$/core/core.iml" afterPath="$PROJECT_DIR$/core/core.iml" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/AnimProcessor.java" afterPath="$PROJECT_DIR$/core/src/com/pixelapp/AnimProcessor.java" />
-      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/AnimProcessor.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/AnimProcessor.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/Canvas.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/Canvas.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/Clipboard.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/Clipboard.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/ColorPicker.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/ColorPicker.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/DrawStage.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/DrawStage.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/FileMenu.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/FileMenu.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/HSVColor.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/HSVColor.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/LayerOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/LayerOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/LayerSelector.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/LayerSelector.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/Menu.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/Menu.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/MenuList.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/MenuList.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/MoveMenu.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/MoveMenu.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/NewAnimWindow.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/NewAnimWindow.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/PixelApp.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/PixelApp.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/PlatformOperations.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/ResizeCanvasWindow.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/ResizeCanvasWindow.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SelectOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SelectOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SideMenu.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SideMenu.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/ColorSelectOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/ColorSelectOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/EraserOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/EraserOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/FillOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/FillOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/PenSelectOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/PenSelectOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/PencilOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/PencilOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/SquareSelectOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/SquareSelectOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/TextOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/TextOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificOptions/WandSelectOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificOptions/WandSelectOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/AddAnimUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddFrameUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/AddFrameUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddLayerUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/AddLayerUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/MergeLayerUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/MergeLayerUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/MoveLayerUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/MoveLayerUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/PixmapUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/PixmapUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/RemoveFrameUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/RemoveFrameUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/RemoveLayerUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/RemoveLayerUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/ResizeUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/ResizeUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/SelectUndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/SpecificUndoActions/SelectUndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/TextPrinter.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/TextPrinter.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/Tool.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/Tool.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/ToolOptions.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/ToolOptions.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/ToolSelector.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/ToolSelector.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/UndoAction.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/UndoAction.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/UndoRedoButtons.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/UndoRedoButtons.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/pixelapp/WidthHeightWindow.java" afterPath="$PROJECT_DIR$/core/src/com/pixelpalette/WidthHeightWindow.java" />
+      <change beforePath="$PROJECT_DIR$/ios/build.gradle" afterPath="$PROJECT_DIR$/ios/build.gradle" />
       <change beforePath="$PROJECT_DIR$/ios/ios.iml" afterPath="$PROJECT_DIR$/ios/ios.iml" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change beforePath="$PROJECT_DIR$/ios/robovm.properties" afterPath="$PROJECT_DIR$/ios/robovm.properties" />
+      <change beforePath="$PROJECT_DIR$/ios/src/com/pixelapp/IOSLauncher.java" afterPath="$PROJECT_DIR$/ios/src/com/pixelpalette/IOSLauncher.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -295,47 +506,50 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="PixelApp" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
+        <projects_view />
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Canvas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/pixelapp/Canvas.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnimProcessor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/src/com/pixelapp/AnimProcessor.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="716">
-              <caret line="1239" column="54" lean-forward="true" selection-start-line="1239" selection-start-column="54" selection-end-line="1239" selection-end-column="54" />
+            <state relative-caret-position="223">
+              <caret line="129" column="62" lean-forward="false" selection-start-line="129" selection-start-column="62" selection-end-line="129" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddAnimUndoAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="41" column="76" lean-forward="false" selection-start-line="41" selection-start-column="76" selection-end-line="41" selection-end-column="76" />
+            <state relative-caret-position="-918">
+              <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOSLauncher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ios/src/com/pixelpalette/IOSLauncher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -345,8 +559,19 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getFra</find>
+      <find>Portable</find>
+      <find>app_name</find>
+      <find>Por</find>
+      <find>implementation</find>
     </findStrings>
+    <replaceStrings>
+      <replace>compile</replace>
+    </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\jnich\Documents\keyStore.jks" />
+    <option name="KEY_ALIAS" value="my_app_key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2527,8 +2752,8 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/98441f7b66ec1b325a7dd52395f511b89711e9e4/gradle-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/1b1884e0c0083ecd83400210659252eacee151b4/gradle-3.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/ad1b4e267d1c0b1bd5a7bfc59daa3550bb29ae4d/robovm-gradle-plugin-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/51bd5d9c6fc64e9bb1bcee77bbe123149118ac74/robovm-gradle-plugin-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/5a971d16579a911197cea50327d2d5124406f93b/robovm-gradle-plugin-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/e437292d8ab9223c4486c75c101882b34c5c4d77/robovm-gradle-plugin-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/e5b87abb2319741c43697aa0ac08b66b549eb88d/gradle-core-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/29ebfa3775979d9cb51b4c428d741067040d2298/gradle-core-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.1.0-alpha01/f7c303e37818223bd98566fcbea29aa0964c4d06/bundletool-0.1.0-alpha01.jar" />
@@ -2536,14 +2761,14 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.aether/aether-connector-wagon/1.13.1/4919bcf865d83a4529d92498d2079aee20bb2698/aether-connector-wagon-1.13.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/add540258651af0816d9b952401200a38c80ef7d/robovm-dist-compiler-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/acaed17e127ddb9893151aa485b1d9560f50dc91/robovm-dist-compiler-2.3.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/35d0c13b57bf1fb96e9a068149383d5c69ae8df9/wagon-provider-api-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/e40429d9dd849c5fe0bdf97062b1d9358d99826d/wagon-provider-api-2.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/d1d00c19989922a6126282dd4b32f25921a3c02a/maven-aether-provider-3.0.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/80eaf6efa354082894adb29fb7db24313977c7f5/maven-aether-provider-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/2be492fe1d78f65b0591f439a0051f457aa3227b/wagon-http-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/399d46310c62421f27c28b98e93f0879442c8a03/wagon-http-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/ffc12ef91d84b4882460ac19c2eeef37f62f7f40/robovm-dist-compiler-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/342b07b3578a29965f50bf5250f5a6919478ed54/robovm-dist-compiler-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/e69bba566d5d2aaee44309d45844900c6f9d57b/builder-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/564a1b75eb6a4fed551e17b8d791e495a092fcb9/builder-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.3/e1ba62cd6e8ee0a7bc3ae1a82706b74146273ec6/lint-gradle-api-26.1.3-sources.jar" />
@@ -2726,8 +2951,8 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/98441f7b66ec1b325a7dd52395f511b89711e9e4/gradle-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/1b1884e0c0083ecd83400210659252eacee151b4/gradle-3.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/ad1b4e267d1c0b1bd5a7bfc59daa3550bb29ae4d/robovm-gradle-plugin-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/51bd5d9c6fc64e9bb1bcee77bbe123149118ac74/robovm-gradle-plugin-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/5a971d16579a911197cea50327d2d5124406f93b/robovm-gradle-plugin-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/e437292d8ab9223c4486c75c101882b34c5c4d77/robovm-gradle-plugin-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/e5b87abb2319741c43697aa0ac08b66b549eb88d/gradle-core-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/29ebfa3775979d9cb51b4c428d741067040d2298/gradle-core-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.1.0-alpha01/f7c303e37818223bd98566fcbea29aa0964c4d06/bundletool-0.1.0-alpha01.jar" />
@@ -2735,14 +2960,14 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.aether/aether-connector-wagon/1.13.1/4919bcf865d83a4529d92498d2079aee20bb2698/aether-connector-wagon-1.13.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/add540258651af0816d9b952401200a38c80ef7d/robovm-dist-compiler-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/acaed17e127ddb9893151aa485b1d9560f50dc91/robovm-dist-compiler-2.3.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/35d0c13b57bf1fb96e9a068149383d5c69ae8df9/wagon-provider-api-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/e40429d9dd849c5fe0bdf97062b1d9358d99826d/wagon-provider-api-2.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/d1d00c19989922a6126282dd4b32f25921a3c02a/maven-aether-provider-3.0.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/80eaf6efa354082894adb29fb7db24313977c7f5/maven-aether-provider-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/2be492fe1d78f65b0591f439a0051f457aa3227b/wagon-http-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/399d46310c62421f27c28b98e93f0879442c8a03/wagon-http-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/ffc12ef91d84b4882460ac19c2eeef37f62f7f40/robovm-dist-compiler-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/342b07b3578a29965f50bf5250f5a6919478ed54/robovm-dist-compiler-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/e69bba566d5d2aaee44309d45844900c6f9d57b/builder-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/564a1b75eb6a4fed551e17b8d791e495a092fcb9/builder-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.3/e1ba62cd6e8ee0a7bc3ae1a82706b74146273ec6/lint-gradle-api-26.1.3-sources.jar" />
@@ -2925,8 +3150,8 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/98441f7b66ec1b325a7dd52395f511b89711e9e4/gradle-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/1b1884e0c0083ecd83400210659252eacee151b4/gradle-3.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/ad1b4e267d1c0b1bd5a7bfc59daa3550bb29ae4d/robovm-gradle-plugin-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/51bd5d9c6fc64e9bb1bcee77bbe123149118ac74/robovm-gradle-plugin-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/5a971d16579a911197cea50327d2d5124406f93b/robovm-gradle-plugin-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/e437292d8ab9223c4486c75c101882b34c5c4d77/robovm-gradle-plugin-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/e5b87abb2319741c43697aa0ac08b66b549eb88d/gradle-core-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/29ebfa3775979d9cb51b4c428d741067040d2298/gradle-core-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.1.0-alpha01/f7c303e37818223bd98566fcbea29aa0964c4d06/bundletool-0.1.0-alpha01.jar" />
@@ -2934,14 +3159,14 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.aether/aether-connector-wagon/1.13.1/4919bcf865d83a4529d92498d2079aee20bb2698/aether-connector-wagon-1.13.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/add540258651af0816d9b952401200a38c80ef7d/robovm-dist-compiler-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/acaed17e127ddb9893151aa485b1d9560f50dc91/robovm-dist-compiler-2.3.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/35d0c13b57bf1fb96e9a068149383d5c69ae8df9/wagon-provider-api-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/e40429d9dd849c5fe0bdf97062b1d9358d99826d/wagon-provider-api-2.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/d1d00c19989922a6126282dd4b32f25921a3c02a/maven-aether-provider-3.0.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/80eaf6efa354082894adb29fb7db24313977c7f5/maven-aether-provider-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/2be492fe1d78f65b0591f439a0051f457aa3227b/wagon-http-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/399d46310c62421f27c28b98e93f0879442c8a03/wagon-http-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/ffc12ef91d84b4882460ac19c2eeef37f62f7f40/robovm-dist-compiler-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/342b07b3578a29965f50bf5250f5a6919478ed54/robovm-dist-compiler-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/e69bba566d5d2aaee44309d45844900c6f9d57b/builder-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/564a1b75eb6a4fed551e17b8d791e495a092fcb9/builder-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.3/e1ba62cd6e8ee0a7bc3ae1a82706b74146273ec6/lint-gradle-api-26.1.3-sources.jar" />
@@ -3124,8 +3349,8 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/98441f7b66ec1b325a7dd52395f511b89711e9e4/gradle-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.3/1b1884e0c0083ecd83400210659252eacee151b4/gradle-3.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/ad1b4e267d1c0b1bd5a7bfc59daa3550bb29ae4d/robovm-gradle-plugin-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.0/51bd5d9c6fc64e9bb1bcee77bbe123149118ac74/robovm-gradle-plugin-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/5a971d16579a911197cea50327d2d5124406f93b/robovm-gradle-plugin-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-gradle-plugin/2.3.1/e437292d8ab9223c4486c75c101882b34c5c4d77/robovm-gradle-plugin-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/e5b87abb2319741c43697aa0ac08b66b549eb88d/gradle-core-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.3/29ebfa3775979d9cb51b4c428d741067040d2298/gradle-core-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.1.0-alpha01/f7c303e37818223bd98566fcbea29aa0964c4d06/bundletool-0.1.0-alpha01.jar" />
@@ -3133,14 +3358,14 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.aether/aether-connector-wagon/1.13.1/4919bcf865d83a4529d92498d2079aee20bb2698/aether-connector-wagon-1.13.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/add540258651af0816d9b952401200a38c80ef7d/robovm-dist-compiler-2.3.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.0/acaed17e127ddb9893151aa485b1d9560f50dc91/robovm-dist-compiler-2.3.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/35d0c13b57bf1fb96e9a068149383d5c69ae8df9/wagon-provider-api-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-provider-api/2.4/e40429d9dd849c5fe0bdf97062b1d9358d99826d/wagon-provider-api-2.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/d1d00c19989922a6126282dd4b32f25921a3c02a/maven-aether-provider-3.0.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-aether-provider/3.0.4/80eaf6efa354082894adb29fb7db24313977c7f5/maven-aether-provider-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/2be492fe1d78f65b0591f439a0051f457aa3227b/wagon-http-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-http/2.4/399d46310c62421f27c28b98e93f0879442c8a03/wagon-http-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/ffc12ef91d84b4882460ac19c2eeef37f62f7f40/robovm-dist-compiler-2.3.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-dist-compiler/2.3.1/342b07b3578a29965f50bf5250f5a6919478ed54/robovm-dist-compiler-2.3.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/e69bba566d5d2aaee44309d45844900c6f9d57b/builder-3.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.3/564a1b75eb6a4fed551e17b8d791e495a092fcb9/builder-3.1.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.3/e1ba62cd6e8ee0a7bc3ae1a82706b74146273ec6/lint-gradle-api-26.1.3-sources.jar" />
@@ -3485,16 +3710,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.java" />
-        <option value="$PROJECT_DIR$/core/src/com/pixelapp/AnimProcessor.java" />
+        <option value="$PROJECT_DIR$/android/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/android/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="4" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -3512,46 +3738,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="PixelApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="core" type="e9137016:NonAndroidModuleNode" />
+              <item name="android" type="feadf853:AndroidModuleNode" />
             </path>
             <path>
               <item name="PixelApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="core" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="PixelApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="core" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="pixelapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PixelApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="core" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="pixelapp" type="462c0819:PsiDirectoryNode" />
-              <item name="SpecificUndoActions" type="462c0819:PsiDirectoryNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="android.studio.gradle" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/test2" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/androidTest" />
     <property name="device.picker.selection" value="1215fc5863093204" />
+    <property name="ExportApk.ApkPath" value="C:\Users\jnich\Desktop\Games\Android\PixelApp\android" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -3601,7 +3819,7 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -3724,36 +3942,37 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7265d3e7-adf3-4734-814b-01684851b3fe" name="Default" comment="" />
-      <created>1528934676027</created>
+      <changelist id="7748decd-c878-4172-b4c1-1e562dd47909" name="Default" comment="" />
+      <created>1530225104758</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528934676027</updated>
+      <updated>1530225104758</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.50851583" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
       <window_info id="RoboVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3765,22 +3984,46 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changes to anim undoing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to anim undoing" />
+    <MESSAGE value="Backup in case everything dies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backup in case everything dies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+    <entry file="file://$PROJECT_DIR$/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="29" lean-forward="false" selection-start-line="117" selection-start-column="29" selection-end-line="117" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3788,50 +4031,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build/generated/source/r/debug/com/pixelpalette/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="201" column="28" lean-forward="false" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/android/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1909">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="223">
+          <caret line="129" column="62" lean-forward="false" selection-start-line="129" selection-start-column="62" selection-end-line="129" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1195">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-918">
+          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+    <entry file="file://$PROJECT_DIR$/ios/src/com/pixelpalette/IOSLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/pixelapp/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/pixelapp/SpecificUndoActions/AddAnimUndoAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="41" column="76" lean-forward="false" selection-start-line="41" selection-start-column="76" selection-end-line="41" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/pixelapp/AnimProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="1239" column="54" lean-forward="true" selection-start-line="1239" selection-start-column="54" selection-end-line="1239" selection-end-column="54" />
+        <state relative-caret-position="136">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
           <folding />
         </state>
       </provider>

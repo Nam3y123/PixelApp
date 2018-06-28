@@ -1,75 +1,201 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9819f55affdef2c8ef31a0e4fc1194b4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\5496d737e98250b44fab8a5e7aaed3c3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8a49c9469f997ffb65de9f95600ddd76\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cb3253c31f95bd6ceb45697147005d77\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:3:5-27
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:5-73
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:5-73
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:5-73
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:5-73
-INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:5-73
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:5-74
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:5-74
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:5-74
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9819f55affdef2c8ef31a0e4fc1194b4\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9819f55affdef2c8ef31a0e4fc1194b4\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\5496d737e98250b44fab8a5e7aaed3c3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\5496d737e98250b44fab8a5e7aaed3c3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8a49c9469f997ffb65de9f95600ddd76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8a49c9469f997ffb65de9f95600ddd76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cb3253c31f95bd6ceb45697147005d77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cb3253c31f95bd6ceb45697147005d77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:5-74
+INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:5-74
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\9819f55affdef2c8ef31a0e4fc1194b4\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:41-70
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:42-71
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:7:15-40
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
-		INJECTED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
+		INJECTED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:9:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:8:5-80
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:9:22-77
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:12:22-77
 application
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:11:5-26:19
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:14:5-35:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\5496d737e98250b44fab8a5e7aaed3c3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\5496d737e98250b44fab8a5e7aaed3c3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8a49c9469f997ffb65de9f95600ddd76\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8a49c9469f997ffb65de9f95600ddd76\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cb3253c31f95bd6ceb45697147005d77\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cb3253c31f95bd6ceb45697147005d77\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:13:9-45
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:16:9-45
 	android:allowBackup
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:15:9-40
-activity#com.pixelapp.AndroidLauncher
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:16:9-25:20
-	android:screenOrientation
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:19:13-56
-	android:label
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:18:13-45
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:19:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d9eef95e432e08d6be062b51f03e1e46\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:19:20-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:22:9-24:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\fd54f390c3a6fe4f4d0396b9a88ce764\AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:20:13-83
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:23:13-122
+	android:theme
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:24:13-61
 	android:name
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:17:13-56
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:22:19-71
+activity#com.pixelpalette.AndroidLauncher
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:28:13-56
+	android:label
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:27:13-45
+	android:configChanges
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:26:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:21:13-24:29
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\benca\Desktop\PixelApp\android\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\jnich\Desktop\Games\Android\PixelApp\android\AndroidManifest.xml:32:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\597dc0f68703ecb3307926d8a6165b76\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d3c63e0cd74585974fba64a1342974f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\656295dfebc9bbd98ad392031ec980fd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d7351a2d2c3f7d4c9430c3d594dd283b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6125f1ebff203341923726c6f96088c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb18d5dc32a898381d6ea42d35dd4208\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\71df5d3349b65a8c60302cc42ae9ecbd\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jnich\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\545a43bb604fc5a107571a48a35cae08\AndroidManifest.xml:26:13-58

@@ -1,42 +1,116 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\benca\\Desktop\\PixelApp\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\benca\\Desktop\\PixelApp\\android\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\jnich\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.1.aar\\9819f55affdef2c8ef31a0e4fc1194b4\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "49",
-                        "endOffsets": "101"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
+                        "startLines": "55,56,57,58,59,60,61",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3667,3709,3786,3824,3863,3916,3984",
+                        "endColumns": "41,76,37,38,52,67,38",
+                        "endOffsets": "3704,3781,3819,3858,3911,3979,4018"
                     }
                 },
                 {
-                    "source": "C:\\Users\\benca\\Desktop\\PixelApp\\android\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\jnich\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\eb18d5dc32a898381d6ea42d35dd4208\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "475"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
+                        "startLines": "2,3,6,8,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,52,62,71,72,77,80,85,95,96",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,174,397,528,1610,1680,1748,1820,1890,1951,2012,2073,2135,2199,2261,2322,2390,2490,2550,2616,2689,2758,2815,2867,2929,3001,3077,3112,3147,3181,3216,3379,4023,4557,4674,4941,5234,5501,6095,6167",
+                        "endLines": "2,3,6,8,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,52,62,71,75,77,83,85,95,96",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "169,232,450,597,1675,1743,1815,1885,1946,2007,2068,2130,2194,2256,2317,2385,2485,2545,2611,2684,2753,2810,2862,2924,2996,3072,3107,3142,3176,3211,3246,3444,4089,4669,4870,5046,5430,5625,6162,6229"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "63",
+                        "startColumns": "4",
+                        "startOffsets": "4094",
+                        "endLines": "70",
+                        "endColumns": "12",
+                        "endOffsets": "4552"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jnich\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\d3c63e0cd74585974fba64a1342974f2\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,7,50,76,78,79,84,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "237,326,455,3251,4875,5051,5173,5435,5630",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "321,392,523,3306,4936,5168,5229,5496,5692"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jnich\\Desktop\\Games\\Android\\PixelApp\\android\\res\\values\\strings.xml",
+                    "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "105",
-                        "endLines": "10",
-                        "endColumns": "12",
-                        "endOffsets": "563"
+                        "startOffsets": "59",
+                        "endColumns": "50",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "53",
+                        "startColumns": "4",
+                        "startOffsets": "3449",
+                        "endColumns": "50",
+                        "endOffsets": "3495"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jnich\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-lite-15.0.1.aar\\fd54f390c3a6fe4f4d0396b9a88ce764\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "87",
+                        "startColumns": "4",
+                        "startOffsets": "5697",
+                        "endLines": "94",
+                        "endColumns": "8",
+                        "endOffsets": "6090"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jnich\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\d9eef95e432e08d6be062b51f03e1e46\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "51,54",
+                        "startColumns": "4,4",
+                        "startOffsets": "3311,3500",
+                        "endColumns": "67,166",
+                        "endOffsets": "3374,3662"
                     }
                 }
             ]
